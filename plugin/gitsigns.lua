@@ -1,0 +1,2 @@
+-- Move this to lua/plugins/gitsigns.lua instead of plugin/
+-- This file should be deleted after moving content
